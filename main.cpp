@@ -17,6 +17,5 @@ int main()
     }
     else if (marks >= 70)
     {
-        cout << "Grade C"
+        cout << "Grade D"
     }
-}
